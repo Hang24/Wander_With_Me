@@ -15,3 +15,6 @@ Gamified Pedometer Mobile App
   - MongoDB
   - 
 *It is needed to modify the IP address login.js file and MongoDB link in the index.js file
+
+*Figma demonstration
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/d9DVb6ZH93Q/0.jpg)](https://www.youtube.com/watch?v=d9DVb6ZH93Q)
